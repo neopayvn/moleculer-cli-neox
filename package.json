@@ -1,6 +1,6 @@
 {
-  "name": "moleculer-cli",
-  "version": "0.8.1",
+  "name": "moleculer-cli-neox",
+  "version": "0.8.2",
   "description": ":herb: Command line tool for Moleculer",
   "scripts": {
     "dev": "node ./bin/moleculer",
@@ -52,7 +52,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moleculerjs/moleculer-cli.git"
+    "url": "git+https://github.com/neopayvn/moleculer-cli-neox.git"
   },
   "bugs": {
     "url": "https://github.com/moleculerjs/moleculer-cli/issues"
