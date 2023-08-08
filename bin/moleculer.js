@@ -26,7 +26,4 @@ require("yargs")
 	.command(require("./../src/emit"))
 	.command(require("./../src/alias-template"))
 	.help()
-	.parserConfiguration({
-		"parse-numbers": false,
-	})
 	.argv;
